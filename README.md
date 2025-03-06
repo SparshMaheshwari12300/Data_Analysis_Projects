@@ -8,7 +8,8 @@ Contains all my Data Analysis Projects
 ![image](https://github.com/user-attachments/assets/232d2448-753a-4591-8afa-e81c66039753)
 
 Project Overview:-
-This projectsp develops comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
+This projects develops comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 Credit card financial dashboard using Power BI:
 
